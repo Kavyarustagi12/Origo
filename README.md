@@ -6,7 +6,7 @@ The implementation currently combines explicit mesh construction with an implici
 
 
 <video
-  src="https://github.com/Kavyarustagi12/Origo/blob/main/assets/2026-04-12-023111.webm"
+  src="https://raw.githubusercontent.com/Kavyarustagi12/Origo/main/assets/2026-04-12-023111.webm"
   controls
   width="100%">
 </video>
