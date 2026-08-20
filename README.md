@@ -4,6 +4,13 @@ Origo is structured as a layered geometry pipeline. Geometry begins as a set of 
 
 The implementation currently combines explicit mesh construction with an implicit, field-based geometry pipeline.
 
+
+<video
+  src="https://github.com/Kavyarustagi12/Origo/blob/main/assets/2026-04-12-023111.webm"
+  controls
+  width="100%">
+</video>
+
 ## Architecture
 
 ```text
